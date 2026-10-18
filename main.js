@@ -1,4 +1,4 @@
-const apiKey = "ef68bece82022a35b1044f768d98b6f9";
+const apiKey = "votre clé API";
 
 const searchBtn =
 document.getElementById("searchBtn");
